@@ -15,7 +15,7 @@
 #
 
 $(call inherit-product, device/google/raviole/aosp_oriole.mk)
-PRODUCT_NAME := aosp_oriole_hwasan
+PRODUCT_NAME := corvus_oriole_hwasan
 
 # Add "hwaddress" as a global sanitizer if it's missing.
 ifeq ($(filter hwaddress,$(SANITIZE_TARGET)),)
