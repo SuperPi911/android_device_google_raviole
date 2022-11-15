@@ -36,7 +36,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/factory_whitefin.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_slider-userdebug \
-    aosp_whitefin-userdebug \
-    aosp_oriole-userdebug \
-    aosp_raven-userdebug
+    corvus_slider-userdebug \
+    corvus_whitefin-userdebug \
+    corvus_oriole-userdebug \
+    corvus_raven-userdebug
