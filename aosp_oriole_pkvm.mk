@@ -18,5 +18,5 @@ TARGET_PKVM_ENABLED := true
 
 $(call inherit-product, device/google/raviole/aosp_oriole.mk)
 
-PRODUCT_NAME := aosp_oriole_pkvm
+PRODUCT_NAME := corvus_oriole_pkvm
 PRODUCT_MODEL := AOSP on Oriole with pKVM
